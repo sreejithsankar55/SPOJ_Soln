@@ -1,3 +1,5 @@
+// Link to que : https://www.spoj.com/problems/NAKANJ/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define pb push_back
