@@ -71,3 +71,10 @@ int main() {
 	
     return 0;
 }
+//https://www.geeksforgeeks.org/check-if-it-is-possible-to-reach-a-number-by-making-jumps-of-two-given-length/
+/*
+    // If position is not reachable 
+    // return -1 
+    if ((end - start) %  __gcd(d1, d2) != 0) 
+        return -1; 
+*/
